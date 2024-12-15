@@ -104,7 +104,7 @@ Finally, the script informs the user that the cleanup process is complete:
 ```
 print('Folder cleanup complete!')
 ```
-##Deployment
+## Deployment
 
 To deploy this script on a live or release system, ensure that the environment has Python installed and that the necessary permissions are granted for file operations.
 
