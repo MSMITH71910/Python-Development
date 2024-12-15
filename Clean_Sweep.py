@@ -1,3 +1,6 @@
+from pathlib import Path
+import shutil
+
 while True:
     root_dir = Path(input('Please enter the full path to the target folder:'))
 
@@ -33,6 +36,7 @@ for item in root_dir.iterdir():
         shutil.move(item, closet_dir / item.name)
 
 print('Folder cleanup complete!')
+
 
 
 
