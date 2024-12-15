@@ -108,19 +108,19 @@ print('Folder cleanup complete!')
 
 To deploy this script on a live or release system, ensure that the environment has Python installed and that the necessary permissions are granted for file operations.
 
-##Server
+## Server
 
 * Live: Ensure the script runs in a controlled environment where users can input paths.
 * Release: Test the script thoroughly before making it available to users.
 * Development: Use a local machine for testing and debugging.
 
-##Branches
+## Branches
 
 * Master: The main branch containing the stable version of the script.
 * Feature: Branches for new features or enhancements.
 * Bugfix: Branches for fixing issues or bugs.
 
-##Additional Documentation and Acknowledgments
+## Additional Documentation and Acknowledgments
 
 * Project folder on server: [Link to project folder]
 * Confluence link: [Link to documentation]
