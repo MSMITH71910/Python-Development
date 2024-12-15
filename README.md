@@ -1,6 +1,6 @@
 # Python Development
 
- I am sharing a program that I wrote as a project with Zero to Mastery Academy. Thuis is a Python utility designed to help users organize files within a specified directory. 
+ I am sharing a program that I wrote as a project with Zero to Mastery Academy. This is a Python utility designed to help users organize files within a specified directory. 
  It categorizes files into designated subdirectories based on their types, 
  making it easier to manage and locate files. This project is particularly useful for users who want to maintain a tidy file structure on their local machines.
 
